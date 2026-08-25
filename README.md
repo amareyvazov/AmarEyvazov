@@ -3,7 +3,7 @@
 - 🔭 **Focus:** Cloud Engineering, Infrastructure as Code, and Automation
 - 🎓 **Education:** 3rd-year Computer Engineering Student @ Vistula University
 - 📍 **Location:** Warsaw, Poland
-- 📬 **LinkedIn:** [Your LinkedIn Profile URL]
+- 📬 **LinkedIn:** www.linkedin.com/in/amar-eyvazov
 
 ### 🛠 Tech Stack
 - **Cloud & IaC:** AWS (EC2, VPC, S3, IAM), Terraform
