@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar-eyvazov)
 
 - 🔭 **Focus:** Cloud Engineering, Infrastructure as Code (IaC), and Automation
-- 🎓 **Education:** 3rd-year Computer Engineering Student @ Vistula University
+- 🎓 **Education:** 3rd-year Computer Engineering Student at Vistula University
 - 📍 **Location:** Warsaw, Poland
 
 ---
