@@ -1,7 +1,7 @@
 # Hi, I'm Amar Eyvazov 👋
 
+[![Mail](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](https://img.shields.io/badge/Mail-amareyvazov%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar-eyvazov)
-[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](https://img.shields.io/badge/Email-amareyvazov%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)
 
 - 🔭 **Focus:** Cloud Engineering, Infrastructure as Code (IaC), and Automation
 - 🎓 **Education:** 3rd-year Computer Engineering Student at Vistula University
